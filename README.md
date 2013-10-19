@@ -9,6 +9,3 @@ Sugeruje dobrze zapoznać się z GitHubem, tutoriale na stronie są bardzo porę
 Git pozwala na tworzenie Changeloga w postaci historii updateów do każdej gałęzi, więc nie potrzeba jest w tej chwili o tworzenie osobnych plików z zapisanymi zmianamy. PAMIĘTAJCE JEDNAK ŻE JAK DODAJECIE NOWY COMMIT, ZAKOMENTUJCIE GO -DOKŁADNIE-, BYŚMY WIEDZIELI CO ZMIENILIŚMY I GDZIE.
 
 Z góry, dziękuje!
-
-P.S.
-Albo z mojej niewiedzy albo z głupoty możliwe jest że istnieje bład, gdzie Git myśli że lokalny plik uległ zmianie lecz oba są takie same (lokal/repo). Jeszcze kombinuje nad rozwiazaniem, please-stand-by.
